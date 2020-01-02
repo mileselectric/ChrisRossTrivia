@@ -26,7 +26,7 @@ React Native CLI can be installed using npm:
  ### Install APK onto Android Emulator (Mobile Device Test)
 
  * Execute the emulator (SDK Manager.exe->Tools->Manage AVDs...->New then Start)
- * Start the console (Windows XP), Run -> type cmd, and move to the platform-tools folder of SDK directory.
+ * Start the console (Windows), Run -> type cmd, and move to the platform-tools folder of SDK directory.
  * Paste the APK file in the 'android-sdk\tools' or 'platform-tools' folder.
  * Then type the following command:
 
